@@ -1,0 +1,4 @@
+#Sun May 12 14:16:30 CEST 2019
+base.0=/home/diamondraras/dev/malala/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
